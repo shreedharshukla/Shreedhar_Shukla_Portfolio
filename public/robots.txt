@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://shreedhar-shukla.github.io/sitemap.xml
